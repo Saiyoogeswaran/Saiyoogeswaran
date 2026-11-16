@@ -3,9 +3,7 @@
 [Portfolio](https://sydportfolio.netlify.app/) •
 [LinkedIn](https://www.linkedin.com/in/contactsaiyoogeswaran/)
 
-Aspiring Data Analyst with hands-on experience in Power BI, SQL, Python, Excel, and Alteryx.
-I enjoy transforming raw data into actionable insights through dashboards, reporting, analytics, and business intelligence solutions.
-
+Data Analyst focused on transforming data into business insights through analytics and dashboards.
 ## Tech Stack
 
 📊 BI & Analytics
