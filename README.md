@@ -1,8 +1,7 @@
 # Hi, I'm Sai 👋
 
 [Portfolio](https://sydportfolio.netlify.app/) •
-[LinkedIn](https://www.linkedin.com/in/contactsaiyoogeswaran/) •
-[GitHub](https://github.com/Saiyoogeswaran)
+[LinkedIn](https://www.linkedin.com/in/contactsaiyoogeswaran/)
 
 Aspiring Data Analyst with hands-on experience in Power BI, SQL, Python, Excel, and Alteryx.
 I enjoy transforming raw data into actionable insights through dashboards, reporting, analytics, and business intelligence solutions.
@@ -20,9 +19,3 @@ Python
 
 📈 Business Intelligence
 Dashboard Development • Analytics
-
-## Connect With Me
-
-- 🔗LinkedIn: www.linkedin.com/in/contactsaiyoogeswaran
-- 🌐Portfolio: https://sydportfolio.netlify.app/
-- 🔗GitHub: https://github.com/Saiyoogeswaran
